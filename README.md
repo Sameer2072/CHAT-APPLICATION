@@ -1,10 +1,17 @@
 # CHAT-APPLICATION
+
 COMPANY - CODTECH IT SOLUTIONS
+
 NAME - SAMEER AGRAWAL
+
 INTERN ID - CT08DL533
+
 DOMAIN - FULL STACK WEB DEVELOPMENT
+
 DURATION - 8 WEEKS
+
 MENTOR -  NEELA SANTOSH 
+
 DESCRIPTION - 
 Project Title: Real-Time Chat Application Using Socket.IO and Node.js
 The Real-Time Chat Application is a web-based communication tool that enables two-way instant messaging between users. It is built using Node.js, Socket.IO, HTML/CSS, and JavaScript, and uses a MySQL database to persist chat messages. The project demonstrates a strong integration of frontend and backend technologies, providing an interactive and real-time chatting experience in a dual-panel layout.
