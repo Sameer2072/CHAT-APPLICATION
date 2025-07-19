@@ -68,3 +68,6 @@ Additional Tools: MySQL2 package, animations, and responsive design principles
 Conclusion:
 The Real-Time Chat Application is a practical demonstration of modern web development techniques and real-time communication using WebSockets. It successfully integrates frontend aesthetics with backend functionality and data persistence, making it suitable for learning, demonstrations, or as a foundation for more advanced chat systems. With scalability and modularity in mind, this project serves as a solid starting point for future enhancements such as user authentication, group chats, or media attachments.
 
+OUTPUT- 
+
+![Image](https://github.com/user-attachments/assets/bf2c2831-516c-4c6f-b20c-98e14417f6a9)
